@@ -15,8 +15,13 @@
 	<link rel="stylesheet" href="css/font-awesome/font-awesome.min.css">
 	<!-- favicons -->
 	<link rel="icon" type="image/png" href="img/favicon.png">
+
 </head>
 <body>
+	<div id="preloader">
+	    <div class="loader"></div>
+	</div>
+
 	<div id="bg">
 		<img src="img/KIM.jpg" alt="avatar">
 		<div id="me-content">
@@ -41,5 +46,17 @@
 
 	</div>
 	
+	<script>
+
+		var preload = document.getElementById('preloader');
+		
+		window.addEventListener('load', function () {
+			setInterval(function(){
+				preload.style.display = 'none';
+			}, 1500);
+				
+		})
+
+	</script>
 	</body>
 </html>
