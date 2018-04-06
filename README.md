@@ -3,5 +3,5 @@
 Preview
 -----
 
-![Devices mockups](![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png))
+![Devices mockups](http://i1380.photobucket.com/albums/ah174/webdevkim/smartmockups_jfnrqr0b_zpscughjm9d.jpeg)
 
