@@ -1,4 +1,3 @@
-# kimcodex.github.io
 
 Preview
 -----
