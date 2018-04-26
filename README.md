@@ -2,5 +2,5 @@
 Mockup
 -----
 
-![Devices mockups](http://i1380.photobucket.com/albums/ah174/webdevkim/smartmockups_jfnrqr0b_zpscughjm9d.jpeg)
+![Devices mockups](https://github.com/kimcodex/kimcodex.github.io/blob/master/img/smartmockups.JPEG)
 
